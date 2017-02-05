@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C6F109C4-E93A-068C-BF38-669F6DF44451}") = "minigolf-master", "Assembly-CSharp.csproj", "{327658D0-5B6E-26E5-957F-5BDA17E14193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327658D0-5B6E-26E5-957F-5BDA17E14193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327658D0-5B6E-26E5-957F-5BDA17E14193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327658D0-5B6E-26E5-957F-5BDA17E14193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327658D0-5B6E-26E5-957F-5BDA17E14193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
